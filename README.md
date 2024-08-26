@@ -1,2 +1,3 @@
-# node-tcp-llm
- LLM TCP Server
+# node-http-llm
+
+LLM as an HTTP Server
